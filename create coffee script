@@ -2,3 +2,6 @@ start
 grind(beans)
 heat(water)
 extract(coffee)
+
+Heat(milk)
+Pour(all)
